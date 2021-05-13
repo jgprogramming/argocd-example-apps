@@ -23,6 +23,6 @@ version: 0.1.0
 appVersion: "1.0"
 
 dependencies:
-- name: incubator/solr
-  version: 1.0.0
-  repository: http://storage.googleapis.com/kubernetes-charts-incubator
+- name: solr
+  version: 0.3.0
+  repository: https://charts.bitnami.com/bitnami
