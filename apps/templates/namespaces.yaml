@@ -29,6 +29,6 @@ metadata:
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: solr
+  name: solr-helm
   annotations:
     argocd.argoproj.io/sync-wave: "-1"
