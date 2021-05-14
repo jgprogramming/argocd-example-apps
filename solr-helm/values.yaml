@@ -1,7 +1,5 @@
 ---
 solr:
-  authentication:
-    enabled: false
   ingress:
     enabled: true
     hostname: solr.127.0.0.1.nip.io
