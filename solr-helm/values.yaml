@@ -2,3 +2,5 @@
 solr:
   persistence:
     enabled: false
+  ingress:
+    enabled: true
