@@ -1,3 +1,4 @@
 ---
-persistence:
-  enabled: false
+solr:
+  persistence:
+    enabled: false
