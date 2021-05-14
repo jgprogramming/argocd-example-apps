@@ -2,3 +2,4 @@
 solr:
   ingress:
     enabled: true
+    hostname: solr.127.0.0.1.nip.io
